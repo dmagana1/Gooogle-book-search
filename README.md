@@ -7,3 +7,7 @@ Herkou link: https://guarded-dawn-72389.herokuapp.com/
 
 # Picutes
 ![weather dashboard demo](google1.JPG)
+
+![weather dashboard demo](google2.JPG)
+
+![weather dashboard demo](google3.JPG)
