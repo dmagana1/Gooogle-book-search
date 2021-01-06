@@ -6,4 +6,4 @@ Click the link to view a video of the application working: https://drive.google.
 Herkou link: https://guarded-dawn-72389.herokuapp.com/
 
 # Picutes
-![weather dashboard demo](Gooogle-book-search/google1.JPG)
+![weather dashboard demo](google1.JPG)
